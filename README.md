@@ -16,11 +16,19 @@ Replayability: Multiple ways to navigate the island and discover the artifact ma
 Gameplay:
 
 Start your journey: Choose between three locations—caves, jungle, or ruins—to begin your adventure.
+
 Make choices: Each location offers different options for exploration, leading you further into the story.
+
 Race against time: Keep an eye on the clock. Every decision counts, and the game ends when the timer runs out.
+
 Find the chalice: If you manage to find the magical chalice within the time limit, you win!
+
 Game Flow:
+
 The game starts with an introduction to the island and its mysteries.
+
 You then choose your first location, and from there, you’ll be presented with different options to explore.
+
 Depending on your choices, the game will branch into different paths, with new challenges at each stop.
+
 If you run out of time before finding the chalice, you lose the game.
